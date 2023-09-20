@@ -95,3 +95,5 @@ Endpoint: `http://127.0.0.1:8000/api/paciente/logout/`
 4. Activar entorno virtual
 5. Levantar el servidor `python manage.py run server`
 6. Ejecutar `ng serve -o`
+
+## Enlace: [Presentación HCP 2022](https://drive.google.com/file/d/1KvrFoNjE0MVt02G9bCPLLZbdTEmon91Y/view)
